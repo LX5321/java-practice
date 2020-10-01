@@ -1,2 +1,2 @@
-# day-1
+# day-0
 A simple hello world java program.
